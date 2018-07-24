@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(53,53,52);
+    color: whitesmoke;
+}
+
+header{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Unica One', cursive;
+    text-align: center;
+    font-size: 26px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+}
+
+.all_watches_container{
+
+}
+
+.watch_description{
+    font-family: 'Dosis', sans-serif;
+}
+
+h2{
+    font-family: 'Unica One', cursive;
+}
+
+article{
+    border: 2px solid #FDEFA6;
+}
